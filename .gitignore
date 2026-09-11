@@ -1,0 +1,10 @@
+simplescheduler
+simpleshell
+dummy_a
+dummy_b
+*.o
+core
+core.*
+.vscode/
+.idea/
+.DS_Store
